@@ -1,0 +1,8 @@
+flask
+flask_cors
+fitz
+crewai
+langchain
+langchain_groq
+typing
+langchain_core
